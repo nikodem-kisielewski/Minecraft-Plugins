@@ -1,0 +1,7 @@
+main: me.Nikodem.Doctor.Main
+name: Doctor
+version: 1.0
+author: Nikodem Kisielewski
+
+commands:
+  Doctor:

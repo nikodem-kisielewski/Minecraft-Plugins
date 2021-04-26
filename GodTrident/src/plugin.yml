@@ -1,0 +1,8 @@
+main: me.Nikodem.GodTrident.Main
+name: GodTrident
+version: 1.0
+author: Nikodem Kisielewski
+api-version: 1.13
+
+commands:
+  GodTrident:

@@ -1,0 +1,8 @@
+main: me.Nikodem.Launch.Main
+name: Launch
+version: 1.0
+author: Nikodem Kisielewski
+
+commands:
+  Launch:
+    aliases: lch

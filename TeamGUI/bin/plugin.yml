@@ -1,0 +1,8 @@
+main: me.Nikodem.TeamGUI.Main
+name: TeamGUI
+version: 1.0
+author: Nikodem Kisielewski
+api-version: 1.16
+
+commands:
+  ChangeTeam:

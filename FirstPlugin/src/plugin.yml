@@ -1,0 +1,7 @@
+main: me.Nikodem.FirstPlugin.Main
+name: First
+version: 1.0
+author: Nikodem Kisielewski
+
+commands:
+  Hello:

@@ -1,0 +1,8 @@
+main: me.Nikodem.NewBoots.Main
+name: NewBoots
+version: 1.0
+author: Nikodem Kisielewski
+api-version: 1.16
+
+commands:
+  NewBoots:
